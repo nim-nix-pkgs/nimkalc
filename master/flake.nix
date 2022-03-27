@@ -11,6 +11,7 @@
   inputs.src-nimkalc-master.ref   = "refs/heads/master";
   inputs.src-nimkalc-master.owner = "nocturn9x";
   inputs.src-nimkalc-master.repo  = "nimkalc";
+  inputs.src-nimkalc-master.dir   = "";
   inputs.src-nimkalc-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
