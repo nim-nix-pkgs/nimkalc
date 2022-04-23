@@ -42,11 +42,11 @@
     "src-nimkalc-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1646142927,
-        "narHash": "sha256-JZmsEvlnR+ZjyvuA+Bu33271wgzBpY9DFarUbSWbjyE=",
+        "lastModified": 1649592158,
+        "narHash": "sha256-wqab9Aj2XGxegOdA6AMN+owOJitax7f3t4U4TCQiSo4=",
         "owner": "nocturn9x",
         "repo": "nimkalc",
-        "rev": "81e95feea4519fbaf382d749d60c2946fb9685bb",
+        "rev": "1bcfccb2172d9ab2477c3541835c573390ed5424",
         "type": "github"
       },
       "original": {
